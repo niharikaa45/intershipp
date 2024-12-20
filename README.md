@@ -6,5 +6,7 @@ for this we should have :
 
 python ide, flask as well to execute this project..
 
+ without installing this all we not get a out put..
 
-thank you.
+
+Thank you.
