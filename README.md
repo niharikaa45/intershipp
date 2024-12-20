@@ -1,5 +1,10 @@
 # face-recognition-based-attendance-system  
 
-Do visit my blog for better explanations: https://machinelearningprojects.net/face-recognition-based-attendance-system/
+intenship project for aicte 
 
-![Face Recognition Based Attendance System](ss.png)
+for this we should have :
+
+python ide, flask as well to execute this project..
+
+
+thank you.
